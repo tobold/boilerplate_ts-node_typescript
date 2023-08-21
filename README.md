@@ -3,9 +3,9 @@
 basic boilerplate repo.
 includes:
 
-- node `14.15.0`
-- typescript `^4.0.5`
-- ts-node `9.0.0`
+- node `18.17.1`
+- typescript `^5.1.6`
+- ts-node `^10.9.1`
 - prettier `^2.1.2`
 - jest `^26.6.3`
 
