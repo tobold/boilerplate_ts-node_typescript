@@ -3,14 +3,14 @@
 basic boilerplate repo.
 includes:
 
-- node `18.17.1`
-- typescript `^5.1.6`
-- ts-node `^10.9.1`
-- prettier `^2.1.2`
-- jest `^26.6.3`
+- node `^22.2.0`
+- typescript `^5.4.5`
+- ts-node `^10.9.2`
+- prettier `^3.2.5`
+- jest `^29.7.0`
 
-`yarn` install packages
+`pnpm install` install packages
 
-`yarn test` run all test files with jest
+`pnpm test` run all test files with jest
 
-`yarn start` start ts-node with index.ts
+`pnpm start` start ts-node with index.tsx
